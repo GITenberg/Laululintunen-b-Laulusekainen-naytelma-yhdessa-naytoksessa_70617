@@ -1,0 +1,38 @@
+_repo: Laululintunen-b-Laulusekainen-naytelma-yhdessa-naytoksessa_70617
+_version: 0.0.1
+alternative_title: Singvögelchen. Finnish
+contributor:
+  translator:
+    agent_name: Suomalainen, K.
+    gutenberg_agent_id: '45616'
+    url: http://www.gutenberg.org/2009/agents/45616
+creator:
+  author:
+    agent_name: Jacobson, Eduard
+    alias: Jakobson, Eduard
+    birthdate: 1833
+    deathdate: 1897
+    gutenberg_agent_id: '55826'
+    url: http://www.gutenberg.org/2009/agents/55826
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eduard_Jacobson
+    - https://de.wikipedia.org/wiki/Eduard_Jacobson
+description: ''
+gutenberg_issued: '2023-04-22'
+identifiers:
+  gutenberg: '70617'
+language: fi
+pgterms:marc905: 20160110075740jakobson
+pgterms:marc906: '1897'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bU. W. Telén & Co., $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Laululintunen : $b Laulusekainen näytelmä yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/70617
