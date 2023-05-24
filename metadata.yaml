@@ -6,6 +6,9 @@ contributor:
     agent_name: Suomalainen, K.
     gutenberg_agent_id: '45616'
     url: http://www.gutenberg.org/2009/agents/45616
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jacobson, Eduard
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Eduard_Jacobson
     - https://de.wikipedia.org/wiki/Eduard_Jacobson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70617#Laululintunen-b-Laulusekainen-naytelma-yhdessa-naytoksessa
 gutenberg_issued: '2023-04-22'
 identifiers:
   gutenberg: '70617'
